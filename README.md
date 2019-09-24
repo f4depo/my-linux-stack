@@ -7,6 +7,7 @@
 - [CopyQ](https://github.com/hluk/CopyQ "CopyQ"), is advanced **clipboard manager** with editing and scripting features.
 - [Plank](https://github.com/ricotz/plank "Plank"), is a simple **dock**.
 - [Snapd](https://snapcraft.io/ "Snapd"), is a software center.
+- [etcher](https://github.com/balena-io/etcher/releases); is an **usb writer** tool.
 
 ## Terminal Based
 - [fd](https://github.com/sharkdp/fd "fd"); is a terminal based **finder** tool
