@@ -9,6 +9,9 @@
 - [Snapd](https://snapcraft.io/ "Snapd"), is a software center.
 - [etcher](https://github.com/balena-io/etcher/releases); is an **usb writer** tool.
 
+## Extensions
+- [alt-tab delay](https://extensions.gnome.org/extension/1403/remove-alttab-delay/), remove alt-tab delay ubuntu
+
 ## Terminal Based
 - [fd](https://github.com/sharkdp/fd "fd"); is a terminal based **finder** tool
 - [wmctrl](https://github.com/dancor/wmctrl "wmctrl"), A command line tool to interact with an EWMH/NetWM compatible X Window Manager.
