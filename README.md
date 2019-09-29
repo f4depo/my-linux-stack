@@ -14,7 +14,7 @@
 - [cpu-power-manager](https://extensions.gnome.org/extension/945/cpu-power-manager/), Manage Intel_pstate CPU Frequency scaling driver
 - [clipboard-indicator](https://extensions.gnome.org/extension/779/clipboard-indicator/), Clipboard Manager extension for Gnome-Shell - Adds a clipboard indicator to the top panel, and caches clipboard history.  
 - [impatience](https://extensions.gnome.org/extension/277/impatience/), animation delay fast
-
+-[gTile](https://extensions.gnome.org/extension/28/gtile/), window tiling. **MUST USE**.
 ## Terminal Based
 - [fd](https://github.com/sharkdp/fd "fd"); is a terminal based **finder** tool
 - [wmctrl](https://github.com/dancor/wmctrl "wmctrl"), A command line tool to interact with an EWMH/NetWM compatible X Window Manager.
