@@ -56,6 +56,7 @@ extension: https://chrome.google.com/webstore/detail/gnome-shell-integration/gph
 
 ## PHP tools
 - [directory-lister](https://github.com/f4depo/DirectoryLister "directory-lister"); is a **directory listing** tool
+- [theia-file-monitor](theia-monitor); is a file monitor that can watch file changes in your host or system.  
 
 ## CMS
 
