@@ -58,6 +58,9 @@ extension: https://chrome.google.com/webstore/detail/gnome-shell-integration/gph
 - [directory-lister](https://github.com/f4depo/DirectoryLister "directory-lister"); is a **directory listing** tool
 - [theia-file-monitor](theia-monitor); is a file monitor that can watch file changes in your host or system.  
 
+## Atom Extensions
+- [remote-ftp](https://atom.io/packages/remote-ftp); is a extension that you **can open your ftp as a project** with that.
+
 ## CMS
 
 - [getgrav](https://getgrav.org/); is a website builder.
