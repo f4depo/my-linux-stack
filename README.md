@@ -1,4 +1,4 @@
-# ## Desktop Apps
+## Desktop Apps
 - [albert](https://github.com/albertlauncher/albert "albert"); is an app launcher
 > git clone --recursive https://github.com/albertlauncher/albert.git
 mkdir albert-build
@@ -65,6 +65,7 @@ extension: https://chrome.google.com/webstore/detail/gnome-shell-integration/gph
 
 - [getgrav](https://getgrav.org/); is a website builder.
 
-# VESTACP
+## VESTACP
 
 - [wordpress installer](https://github.com/lukapaunovic/create_wp) 
+- [vesta tools](https://github.com/SS88UK/VestaCP-Tools-Plugin)
