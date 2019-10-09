@@ -27,6 +27,9 @@ sudo make install
 - [file browser](https://github.com/fisadev/ulauncher-better-file-browser)
 - [system](https://github.com/iboyperson/ulauncher-system), shut down, lock etc.
 - [window-switcher](https://github.com/psukys/ulauncher-plugin-windows)
+- [IP lik](https://github.com/nesivmi/ulauncher-iplik), ip viewer
+- [better file browser](https://github.com/fisadev/ulauncher-better-file-browser)
+- [gnome settings](https://github.com/friday/ulauncher-gnome-settings)
 
 ## Gnome Extensions
 > first run: sudo apt-get install chrome-gnome-shell 
