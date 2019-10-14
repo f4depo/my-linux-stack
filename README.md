@@ -67,6 +67,7 @@ extension: https://chrome.google.com/webstore/detail/gnome-shell-integration/gph
 ## CMS
 
 - [getgrav](https://getgrav.org/); is a website builder.
+- [hugo](https://github.com/gohugoio/hugo); is fastest framework for building website.
 
 ## VESTACP
 
