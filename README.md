@@ -48,14 +48,16 @@ extension: https://chrome.google.com/webstore/detail/gnome-shell-integration/gph
 ## Terminal Based
 - [fd](https://github.com/sharkdp/fd "fd"); is a terminal based **finder** tool
 - [wmctrl](https://github.com/dancor/wmctrl "wmctrl"), A command line tool to interact with an EWMH/NetWM compatible X Window Manager.
+- [carbon-now-cli](https://github.com/mixn/carbon-now-cli), beautiful images of your code — from right inside your terminal.
 
-##Photo & Video & Customization
+## Photo & Video & Customization
 - [Kazam](https://launchpad.net/kazam "Kazam"); **Screentast** tool for linux
 - [screencloud](https://github.com/olav-st/screencloud "screencloud"); takes **screenshot**
 - [Font Finder](https://flathub.org/apps/details/io.github.mmstick.FontFinder "Font Finder"), is a Google **Fonts** downloader
 
-## Wordpress Plugins
+## Wordpress Plugins & Tools etc.
 - [wp-instagram-widget](https://github.com/scottsweb/wp-instagram-widget "wp-instagram-widget"); instagram widget without api
+- [whippet-server](https://github.com/dxw/whippet-server), Whippet Server launches a stand-alone web server for a specific WordPress installation
 
 ## PHP tools
 - [directory-lister](https://github.com/f4depo/DirectoryLister "directory-lister"); is a **directory listing** tool
@@ -73,3 +75,9 @@ extension: https://chrome.google.com/webstore/detail/gnome-shell-integration/gph
 
 - [wordpress installer](https://github.com/lukapaunovic/create_wp) 
 - [vesta tools](https://github.com/SS88UK/VestaCP-Tools-Plugin)
+
+## Web Optimization
+- [sitespeed.io](https://github.com/sitespeedio/sitespeed.io), Sitespeed.io is an open source tool that helps you monitor, analyze and optimize your website speed and performance.
+
+## System Backup & Security 
+- [backintime](https://github.com/bit-team/backintime), A simple backup tool for Linux
