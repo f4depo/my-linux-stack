@@ -81,3 +81,6 @@ extension: https://chrome.google.com/webstore/detail/gnome-shell-integration/gph
 
 ## System Backup & Security 
 - [backintime](https://github.com/bit-team/backintime), A simple backup tool for Linux
+
+## Windows Photo & Video
+- [captura](https://github.com/MathewSachin/Captura), a Kazam like screen recorder.
