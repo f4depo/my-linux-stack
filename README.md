@@ -9,6 +9,7 @@ sudo make install
 
 	> if get errors search about qt5 or install this package directyle:  libqt5charts5-dev. 
 - [ulauncher](https://ulauncher.io/#Download); is an app launcher
+- [ferdi](https://getferdi.com/), is free version of Franz.
 - [fsearch](https://github.com/cboxdoerfer/fsearch "fsearch"); is a **finder** tool
 > 		sudo add-apt-repository ppa:christian-boxdoerfer/fsearch-daily
 > 		sudo apt update && sudo apt install fsearch-trunk
