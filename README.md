@@ -67,6 +67,8 @@ extension: https://chrome.google.com/webstore/detail/gnome-shell-integration/gph
 ## Atom Extensions
 - [remote-ftp](https://atom.io/packages/remote-ftp); is a extension that you **can open your ftp as a project** with that.
 
+## Sublime Text Extensions
+- [css format](https://packagecontrol.io/packages/CSS%20Format), is a really good css formatter.
 ## CMS
 
 - [getgrav](https://getgrav.org/); is a website builder.
