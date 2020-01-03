@@ -69,6 +69,8 @@ extension: https://chrome.google.com/webstore/detail/gnome-shell-integration/gph
 
 ## Sublime Text Extensions
 - [css format](https://packagecontrol.io/packages/CSS%20Format), is a really good css formatter.
+- [css-extended-completions](https://packagecontrol.io/packages/CSS%20Extended%20Completions), is **css code completer**.
+
 ## CMS
 
 - [getgrav](https://getgrav.org/); is a website builder.
