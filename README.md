@@ -70,6 +70,10 @@ extension: https://chrome.google.com/webstore/detail/gnome-shell-integration/gph
 ## Sublime Text Extensions
 - [css format](https://packagecontrol.io/packages/CSS%20Format), is a really good css formatter.
 - [css-extended-completions](https://packagecontrol.io/packages/CSS%20Extended%20Completions), is **css code completer**.
+- [all-autocomplete](https://github.com/alienhard/SublimeAllAutocomplete), is a completion tool for all langs.
+
+## Sublime Text Themes
+- [seti-ui](https://packagecontrol.io/packages/Seti_UI), is a dark Sublime Text theme.
 
 ## CMS
 
