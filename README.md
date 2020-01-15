@@ -25,8 +25,8 @@ sudo make install
 - [etcher](https://github.com/balena-io/etcher/releases); is an **usb writer** tool.
 - [remmina](https://remmina.org/); is a screen access app for linux.
 > sudo apt-add-repository ppa:remmina-ppa-team/remmina-next
-sudo apt update
-sudo apt install remmina remmina-plugin-rdp remmina-plugin-secret
+> sudo apt update
+> sudo apt install remmina remmina-plugin-rdp remmina-plugin-secret
 
 ###### Ulauncher Extensions
 - [file browser](https://github.com/fisadev/ulauncher-better-file-browser)
