@@ -23,6 +23,10 @@ sudo make install
 - [Plank](https://github.com/ricotz/plank "Plank"), is a simple **dock**.
 - [Snapd](https://snapcraft.io/ "Snapd"), is a software center.
 - [etcher](https://github.com/balena-io/etcher/releases); is an **usb writer** tool.
+- [remmina](https://remmina.org/); is a screen access app for linux.
+> sudo apt-add-repository ppa:remmina-ppa-team/remmina-next
+sudo apt update
+sudo apt install remmina remmina-plugin-rdp remmina-plugin-secret
 
 ###### Ulauncher Extensions
 - [file browser](https://github.com/fisadev/ulauncher-better-file-browser)
