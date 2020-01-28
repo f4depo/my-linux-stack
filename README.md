@@ -55,8 +55,11 @@ extension: https://chrome.google.com/webstore/detail/gnome-shell-integration/gph
 - [wmctrl](https://github.com/dancor/wmctrl "wmctrl"), A command line tool to interact with an EWMH/NetWM compatible X Window Manager.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli), beautiful images of your code — from right inside your terminal.
 
-## Helpful Articles
+## Linux Helpful Articles
 - [linux mouse wheel speed](https://io.bikegremlin.com/11541/linux-mouse-scroll-speed/), for increase or decrease mouse wheel speed. tags: imwheel
+
+## Windows Helpful Articles
+- [always on top](https://www.groovypost.com/howto/howto/windows-programs-always-on-top/)
 
 ## Photo & Video & Customization
 - [Kazam](https://launchpad.net/kazam "Kazam"); **Screentast** tool for linux
