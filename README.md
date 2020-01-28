@@ -55,6 +55,9 @@ extension: https://chrome.google.com/webstore/detail/gnome-shell-integration/gph
 - [wmctrl](https://github.com/dancor/wmctrl "wmctrl"), A command line tool to interact with an EWMH/NetWM compatible X Window Manager.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli), beautiful images of your code — from right inside your terminal.
 
+## Helpful Articles
+- [linux mouse wheel speed](https://io.bikegremlin.com/11541/linux-mouse-scroll-speed/), for increase or decrease mouse wheel speed. tags: imwheel
+
 ## Photo & Video & Customization
 - [Kazam](https://launchpad.net/kazam "Kazam"); **Screentast** tool for linux
 - [screencloud](https://github.com/olav-st/screencloud "screencloud"); takes **screenshot**
@@ -99,3 +102,5 @@ extension: https://chrome.google.com/webstore/detail/gnome-shell-integration/gph
 - [captura](https://github.com/MathewSachin/Captura), a Kazam like screen recorder.
 - [goodsync](https://www.goodsync.com/personal), is a **greate online/offline sync** tool
 - [ueli](https://ueli.oliverschwendener.ch), is a keystroke **launcher** for Windows and macOS
+
+
