@@ -50,6 +50,9 @@ extension: https://chrome.google.com/webstore/detail/gnome-shell-integration/gph
 - [window-blur-effect](https://extensions.gnome.org/extension/891/windows-blur-effects/), Apply BLUR effects on windows in background.
 - [steal-my-focus](https://extensions.gnome.org/extension/234/steal-my-focus/), It removes the 'Window is ready' notification and puts the window immediately into focus instead.
 
+## macOS
+- [amethyst](https://github.com/ianyh/Amethyst), is free window tiling manager.
+
 ## Terminal Based
 - [fd](https://github.com/sharkdp/fd "fd"); is a terminal based **finder** tool
 - [wmctrl](https://github.com/dancor/wmctrl "wmctrl"), A command line tool to interact with an EWMH/NetWM compatible X Window Manager.
